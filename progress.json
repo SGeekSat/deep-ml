@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:36:41.141Z",
+  "generated_at": "2026-11-22T13:36:56.654Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -117,6 +117,89 @@
       "last_pushed_at": "2026-11-22T13:36:40.007Z",
       "language": "python",
       "lines": 32
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-11-19T12:52:01.707Z",
+      "last_pushed_at": "2026-11-19T12:52:01.707Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-11-19T12:55:04.488Z",
+      "last_pushed_at": "2026-11-19T12:55:04.488Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-11-19T12:56:20.296Z",
+      "last_pushed_at": "2026-11-19T12:56:20.296Z"
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-11-19T13:00:53.746Z",
+      "last_pushed_at": "2026-11-19T13:00:53.746Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-19T13:08:50.437Z",
+      "last_pushed_at": "2026-11-19T13:08:50.437Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-11-19T13:21:29.883Z",
+      "last_pushed_at": "2026-11-19T13:21:29.883Z",
+      "language": "python",
+      "lines": 14
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-11-19T13:39:22.260Z",
+      "last_pushed_at": "2026-11-19T13:39:22.260Z"
     }
   }
 }

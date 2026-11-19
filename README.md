@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**16** solved · 12 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,14 +13,26 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-20 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-19 | [solution](problems/0083-dot-product-calculator) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-22 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-20 | [solution](problems/0014-linear-regression-using-normal-equation) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-19 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-20 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-11-22 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-19 | [solution](problems/0009-matrix-times-matrix) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-11-22 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-22 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-11-19 | [solution](math/0009-matrix-basics) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-11-19 | [solution](math/0007-vector-operations) |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-19 | [solution](math/0012-inverse-and-rank) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-19 | [solution](math/0010-matrix-multiplication) |
 
 ---
 
