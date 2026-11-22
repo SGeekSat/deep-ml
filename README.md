@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 12 problems · 0 labs · 4 math
+**17** solved · 13 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-22 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-20 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-19 | [solution](problems/0083-dot-product-calculator) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-22 | [solution](problems/0015-linear-regression-using-gradient-descent) |
